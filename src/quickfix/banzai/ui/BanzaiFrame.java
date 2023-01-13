@@ -44,7 +44,7 @@ public class BanzaiFrame extends JFrame {
             ExecutionTableModel executionTableModel,
             final BanzaiApplication application) {
         super();
-        setTitle("Banzai!");
+        setTitle("SOSUV BUYSIDE");
         setSize(600, 400);
 
         if (System.getProperties().containsKey("openfix")) {
