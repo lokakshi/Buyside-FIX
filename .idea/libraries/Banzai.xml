@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Banzai">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Banzai.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
